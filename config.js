@@ -82,7 +82,7 @@ window.SITE = {
         "en": "An introduction and time spent with the horse.",
         "ru": "Знакомство и общение с лошадью."
       },
-      "duration": "",
+      "duration": "60 min",
       "price": "",
       "example": false
     },
@@ -98,7 +98,7 @@ window.SITE = {
         "en": "Riding options are discussed individually.",
         "ru": "Возможность верховой езды обсуждается индивидуально."
       },
-      "duration": "",
+      "duration": "30 min",
       "price": "",
       "example": false
     },
@@ -114,7 +114,7 @@ window.SITE = {
         "en": "Activities considering the horse’s wellbeing.",
         "ru": "Общение с лошадью с учётом её самочувствия."
       },
-      "duration": "",
+      "duration": "30 min",
       "price": "",
       "example": false
     },
@@ -130,7 +130,7 @@ window.SITE = {
         "en": "Photo sessions are arranged in advance if available.",
         "ru": "Возможность фотосессии согласовывается заранее."
       },
-      "duration": "",
+      "duration": "30 min",
       "price": "",
       "example": false
     }
