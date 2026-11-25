@@ -84,7 +84,7 @@ window.SITE = {
       },
       "duration": "",
       "price": "",
-      "example": true
+      "example": false
     },
     {
       "icon": "riding",
@@ -100,7 +100,7 @@ window.SITE = {
       },
       "duration": "",
       "price": "",
-      "example": true
+      "example": false
     },
     {
       "icon": "heart",
@@ -116,7 +116,7 @@ window.SITE = {
       },
       "duration": "",
       "price": "",
-      "example": true
+      "example": false
     },
     {
       "icon": "camera",
@@ -132,7 +132,7 @@ window.SITE = {
       },
       "duration": "",
       "price": "",
-      "example": true
+      "example": false
     }
   ],
   "faq": [
