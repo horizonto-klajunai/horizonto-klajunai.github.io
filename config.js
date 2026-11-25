@@ -16,8 +16,8 @@ window.SITE = {
   "breed": "",
   "age": "2",
   "images": {
-    "hero": "images/hero.jpg",
-    "owner": "images/owner.jpg"
+    "hero": "images/gallery-01.jpg",
+    "owner": "images/gallery-10.jpg"
   },
   "gallery": [
     {
@@ -62,6 +62,30 @@ window.SITE = {
     },
     {
       "src": "images/gallery-06.jpg",
+      "alt": {
+        "lt": "Oriono nuotrauka 5",
+        "en": "Photo of Orion 5",
+        "ru": "Фото Ориона 5"
+      }
+    },
+    {
+      "src": "images/gallery-07.jpg",
+      "alt": {
+        "lt": "Oriono nuotrauka 5",
+        "en": "Photo of Orion 5",
+        "ru": "Фото Ориона 5"
+      }
+    },
+    {
+      "src": "images/gallery-08.jpg",
+      "alt": {
+        "lt": "Oriono nuotrauka 5",
+        "en": "Photo of Orion 5",
+        "ru": "Фото Ориона 5"
+      }
+    },
+    {
+      "src": "images/gallery-09.jpg",
       "alt": {
         "lt": "Oriono nuotrauka 6",
         "en": "Photo of Orion 6",
@@ -198,7 +222,7 @@ window.SITE = {
       "heroSub": "Pažinkite Orioną ir atraskite žirgų pasaulį.",
       "cta": "Susisiekite",
       "draft": "Bandomoji svetainė · informacija tikslinama",
-      "ownerIntro": "Labas! Aš esu [vardas].",
+      "ownerIntro": "Labas! Aš esu Anna.",
       "ownerBio": "[Trumpa istorija apie šeimininkę ir jos patirtį su žirgais.]",
       "horseName": "Orionas",
       "horseNames": "Oficialus vardas – Klajunas, tačiau kasdien jį vadiname Orionu.",
@@ -246,7 +270,7 @@ window.SITE = {
       "heroSub": "Meet Orion and discover the world of horses.",
       "cta": "Get in touch",
       "draft": "Demo website · details to be confirmed",
-      "ownerIntro": "Hello! I am [name].",
+      "ownerIntro": "Hello! I am Anna.",
       "ownerBio": "[A short story about the owner and her experience with horses.]",
       "horseName": "Orion",
       "horseNames": "His registered name is Klajunas, but we call him Orion.",
